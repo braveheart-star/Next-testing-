@@ -1,0 +1,21 @@
+.toolbar {
+  min-height: 128px;
+  align-items: flex-start;
+//   padding-top: 0.5em;
+  justify-content: space-between;
+//   padding-bottom: 1em;
+}
+
+.title {
+  flex-grow: 1;
+  align-self: center;
+}
+
+.sub_title{
+    align-self:center;
+}
+
+.icon_back{
+    margin-right: 1em !important;
+    color: white !important;
+}
